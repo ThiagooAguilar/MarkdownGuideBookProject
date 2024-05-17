@@ -1,3 +1,0 @@
-# MarkdownGuideBookProject
-# MarkdownGuideBookProject
-# MarkdownGuideBookProject
