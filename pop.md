@@ -12,34 +12,35 @@ La vigencia de este genero es git debido a los grandes cambios que viven d√≠a d√
 ##  _**Los referentes del pop**_  
 
 	1. Michael Jackson
-![img_2.png](img_2.png)
+
+![img.png](img.png)
 
 	2. Madonna 
-![img_3.png](img_3.png)
+![img_1.png](img_1.png)
 
 	3. Bing Crosby
-![img_4.png](img_4.png)
+![img_2.png](img_2.png)
 
-	4. Lady gaga
-![img_5.png](img_5.png)
+	4. Lady gaga 
+!![img_3.png](img_3.png)
 
 	5. Ariana Grande
-![img_6.png](img_6.png)
+!![img_4.png](img_4.png)
 
 	6. Frank Sinatra
-![img_7.png](img_7.png)
+![img_5.png](img_5.png)
 
 	7. Taylor Swift
-![img_8.png](img_8.png)
+![img_6.png](img_6.png)
 
 	8. Peggy Lee
-![img_9.png](img_9.png)
+![img_7.png](img_7.png)
 
 	9. Patti Page
-![img_10.png](img_10.png)
+![img_8.png](img_8.png)
 
 	10. David Whitfield
-![img_11.png](img_11.png)
+![img_9.png](img_9.png)
 
 
 ## _**Impacto en las masas**_
